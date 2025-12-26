@@ -8,3 +8,4 @@ Day 3: Successfully cloned the repository and pushed my first local change.
 
 
 
+Day 4: Understood basic Git commands and workflow.
